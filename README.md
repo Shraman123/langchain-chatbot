@@ -17,6 +17,8 @@ It uses memory persistence and can run either locally or connected to cloud LLMs
 
 ## 🗂️ Project Structure
 
+
+
 langchain-chatbot/
 ├─ chatbot.py # Main chatbot logic
 ├─ requirements.txt # Python dependencies
